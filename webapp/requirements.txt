@@ -2,3 +2,11 @@ gunicorn
 Flask
 Jinja2
 Werkzeug
+google-api-python-client
+google-auth
+google-auth-httplib2
+numpy
+flask_assistant
+pytest
+coverage
+flask_injector
